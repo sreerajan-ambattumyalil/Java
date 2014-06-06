@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff20d4f3-30a3-4199-9b7a-6f48576985af" name="Default" comment="" />
+    <list default="true" id="ff20d4f3-30a3-4199-9b7a-6f48576985af" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="/MyTryOuts/SkyCast/test/com/bandido/OptimizedRemoteControllerTest.java" afterPath="/MyTryOuts/SkyCast/test/com/bandido/OptimizedRemoteControllerTest.java" />
+      <change type="MODIFICATION" beforePath="/MyTryOuts/SkyCast/SkyCast.iml" afterPath="/MyTryOuts/SkyCast/SkyCast.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SkyCast.iml" afterPath="$PROJECT_DIR$/SkyCast.iml" />
+      <change type="MODIFICATION" beforePath="/MyTryOuts/SkyCast/.idea/misc.xml" afterPath="/MyTryOuts/SkyCast/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="/MyTryOuts/SkyCast/.idea/vcs.xml" afterPath="/MyTryOuts/SkyCast/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="/MyTryOuts/SkyCast/.idea/workspace.xml" afterPath="/MyTryOuts/SkyCast/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SkyCast.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,36 +27,67 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="SkyCast" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="OptimizedRemoteController.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="OptimizedRemoteController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/bandido/OptimizedRemoteController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.615199" vertical-offset="210" max-vertical-offset="1380">
+            <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1380">
               <caret line="48" column="55" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OptimizedRemoteControllerTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="OptimizedRemoteControllerTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/bandido/OptimizedRemoteControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1695">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.65839696" vertical-offset="75" max-vertical-offset="1695">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
-                <element signature="e#436#445#0" expanded="true" />
-                <element signature="e#699#708#0" expanded="true" />
-                <element signature="e#1234#1243#0" expanded="true" />
-                <element signature="e#1455#1464#0" expanded="true" />
-                <element signature="e#2008#2017#0" expanded="true" />
-                <element signature="e#2364#2373#0" expanded="true" />
-                <element signature="e#3006#3015#0" expanded="true" />
-                <element signature="e#3179#3188#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,20 +96,9 @@
       <file leaf-file-name="Remote.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/bandido/Remote.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1836">
+            <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1620">
               <caret line="30" column="69" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#349#356#0" expanded="true" />
-                <element signature="e#2498#2499#0" expanded="true" />
-                <element signature="e#2553#2554#0" expanded="true" />
-                <element signature="e#2595#2596#0" expanded="true" />
-                <element signature="e#2651#2652#0" expanded="true" />
-                <element signature="e#3083#3084#0" expanded="true" />
-                <element signature="e#3150#3151#0" expanded="true" />
-                <element signature="e#3187#3188#0" expanded="true" />
-                <element signature="e#3247#3248#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -76,18 +106,9 @@
       <file leaf-file-name="State.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/bandido/State.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+            <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="630">
               <caret line="33" column="70" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-              <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -95,20 +116,9 @@
       <file leaf-file-name="Channel.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/bandido/Channel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+            <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="510">
               <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-              <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,15 +126,40 @@
       <file leaf-file-name="RemoteTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/bandido/RemoteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2175">
+            <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2175">
               <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///MyTryOuts/SkyCast/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="495">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoteTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///MyTryOuts/SkyCast/test/com/bandido/RemoteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2175">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2216#2225#0" expanded="true" />
-                <element signature="e#2787#2796#0" expanded="true" />
-                <element signature="e#3378#3387#0" expanded="true" />
-                <element signature="e#3978#3987#0" expanded="true" />
-                <element signature="e#4539#4548#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,6 +171,315 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="/MyTryOuts/SkyCast" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SkyCast" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="SkyCast" />
+                <option name="path" value="/MyTryOuts/SkyCast" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="/MyTryOuts/SkyCast">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="/MyTryOuts/SkyCast" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1402076394000" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="/MyTryOuts/SkyCast">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="/MyTryOuts/SkyCast" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="SkyCast" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/announce" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/antlr" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/base-services" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/base-services-groovy" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/build-comparison" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/build-init" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/cli" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/code-quality" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/core" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/core-impl" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/cpp" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/diagnostics" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/ear" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/ide" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/internal-integ-testing" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/internal-testing" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/ivy" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/jacoco" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/javascript" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/jetty" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/language-base" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/language-jvm" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/launcher" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/maven" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/messaging" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/native" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/open-api" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/osgi" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/plugins" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/publish" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/reporting" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/resources" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/scala" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/signing" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/sonar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/tooling-api" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/ui" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/src/wrapper" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/ant-1.9.3.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/ant-launcher-1.9.3.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-base-services-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-base-services-groovy-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-cli-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-core-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-docs-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-launcher-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-messaging-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-native-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-open-api-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-resources-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-tooling-api-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-ui-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/gradle-wrapper-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/groovy-all-1.8.6.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/ivy-2.2.0.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/ant-antlr-1.9.3.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-announce-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-antlr-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-build-comparison-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-build-init-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-code-quality-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-core-impl-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-cpp-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-diagnostics-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-ear-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-ide-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-ivy-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-jacoco-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-javascript-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-jetty-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-language-base-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-language-jvm-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-maven-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-osgi-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-plugins-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-publish-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-reporting-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-scala-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-signing-1.12.jar" />
+                  <option value="/MyTryOuts/SkyCast/tools/gradle/lib/plugins/gradle-sonar-1.12.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -159,9 +503,11 @@
         <option value="$PROJECT_DIR$/src/com/bandido/Channel.java" />
         <option value="$PROJECT_DIR$/src/com/bandido/State.java" />
         <option value="$PROJECT_DIR$/src/com/bandido/Remote.java" />
-        <option value="$PROJECT_DIR$/test/com/bandido/OptimizedRemoteControllerTest.java" />
-        <option value="$PROJECT_DIR$/test/com/bandido/RemoteTest.java" />
         <option value="$PROJECT_DIR$/src/com/bandido/OptimizedRemoteController.java" />
+        <option value="$PROJECT_DIR$/test/com/bandido/RemoteTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="/MyTryOuts/SkyCast/test/com/bandido/RemoteTest.java" />
+        <option value="$PROJECT_DIR$/test/com/bandido/OptimizedRemoteControllerTest.java" />
       </list>
     </option>
   </component>
@@ -170,7 +516,7 @@
     <option name="width" value="1680" />
     <option name="height" value="926" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -181,7 +527,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+    <option name="STATE" value="2" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -224,11 +570,7 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bandido" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,38 +584,33 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bandido" />
+              <option name="myItemId" value="libs" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToClass.includeLibraries" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="project.propCompiler" />
     <property name="recentsLimit" value="5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/junit-4.11.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/hamcrest-core-1.3.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="dynamic.classpath" value="false" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="OverrideImplement.combined" value="true" />
-    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -289,7 +626,7 @@
       <recent name="com.bandido" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RemoteTest.ShouldSetTheInitialRemoteStateWhenSwitchedOn">
+  <component name="RunManager" selected="JUnit.All in SkyCast">
     <configuration default="false" name="OptimizedRemoteControllerTest.TestCaseTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SkyCast" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -512,8 +849,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.RemoteTest.ShouldSetTheInitialRemoteStateWhenSwitchedOn" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.All in SkyCast" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in SkyCast" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RemoteTest.ShouldSetTheInitialRemoteStateWhenSwitchedOn" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.OptimizedRemoteControllerTest.TestCaseFour" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.OptimizedRemoteControllerTest.TestCaseThree" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.OptimizedRemoteControllerTest.TestCaseTwo" />
@@ -533,25 +870,26 @@
     <frame x="0" y="22" width="1680" height="926" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46441072" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26130953" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46441072" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26130953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905483" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -580,47 +918,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/bandido/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/OptimizedRemoteController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1380">
+          <caret line="48" column="55" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bandido/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <caret line="33" column="70" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bandido/Channel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,15 +931,179 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1695">
           <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding>
-            <element signature="e#436#445#0" expanded="true" />
-            <element signature="e#699#708#0" expanded="true" />
-            <element signature="e#1234#1243#0" expanded="true" />
-            <element signature="e#1455#1464#0" expanded="true" />
-            <element signature="e#2008#2017#0" expanded="true" />
-            <element signature="e#2364#2373#0" expanded="true" />
-            <element signature="e#3006#3015#0" expanded="true" />
-            <element signature="e#3179#3188#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/Remote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1620">
+          <caret line="30" column="69" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="630">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="510">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/bandido/RemoteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2175">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///MyTryOuts/SkyCast/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/OptimizedRemoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1380">
+          <caret line="48" column="55" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/bandido/OptimizedRemoteControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1695">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/Remote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1620">
+          <caret line="30" column="69" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="630">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="510">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/bandido/RemoteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2085">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/OptimizedRemoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1380">
+          <caret line="48" column="55" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/bandido/OptimizedRemoteControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1695">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/Remote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1620">
+          <caret line="30" column="69" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="630">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="510">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/bandido/RemoteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2175">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bandido/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -645,41 +1111,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1836">
           <caret line="30" column="69" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#349#356#0" expanded="true" />
-            <element signature="e#2498#2499#0" expanded="true" />
-            <element signature="e#2553#2554#0" expanded="true" />
-            <element signature="e#2595#2596#0" expanded="true" />
-            <element signature="e#2651#2652#0" expanded="true" />
-            <element signature="e#3083#3084#0" expanded="true" />
-            <element signature="e#3150#3151#0" expanded="true" />
-            <element signature="e#3187#3188#0" expanded="true" />
-            <element signature="e#3247#3248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/bandido/RemoteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2175">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2216#2225#0" expanded="true" />
-            <element signature="e#2787#2796#0" expanded="true" />
-            <element signature="e#3378#3387#0" expanded="true" />
-            <element signature="e#3978#3987#0" expanded="true" />
-            <element signature="e#4539#4548#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bandido/OptimizedRemoteController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.615199" vertical-offset="210" max-vertical-offset="1380">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1380">
           <caret line="48" column="55" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/bandido/RemoteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2085">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///MyTryOuts/SkyCast/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="495">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///MyTryOuts/SkyCast/test/com/bandido/RemoteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2175">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/bandido/OptimizedRemoteControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65839696" vertical-offset="75" max-vertical-offset="1695">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -740,6 +1224,19 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -747,7 +1244,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>hamcrest-core-1.3</last-edited>
+          <last-edited>hamcrest-core-1.31</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

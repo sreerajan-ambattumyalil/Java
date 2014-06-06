@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bandido.RemoteTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2014-06-06T18:05:46" hostname="sreerajan.home" time="0.024">
+  <properties/>
+  <testcase name="ShouldMoveFrom77to81If78And79And80AreBlockedChannelsWhenPressingUp" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldChangeRemoteStateWhenMovingFrom15to14ByEnteringTheChannelNumber" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveFrom81to77If78And79And80AreBlockedChannelsWhenPressingDown" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveFrom1To100WhenMovingDownWhenTheLowestChannelIs1" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMove1to100WhenPressingBackButtonIf100IsThePreviousChannelAnd1IsTheCurrentChannel" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveDownFrom106ByOneChannelWhenPressingDown" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldReturnTwoClicksWhenMovingFrom15to14ByEnteringTheChannelNumber" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldSetTheInitialRemoteStateWhenSwitchedOn" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveToNextChannelFrom105WhenPRessingUp" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveFrom100To1WhenMovingUpWhenTheHighestChannelIs100" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveFrom77to81If78And79And80AreBlockedChannelsWhenPressingUp" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldChangeRemoteStateWhenMovingFrom15to14ByEnteringTheChannelNumber" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveFrom81to77If78And79And80AreBlockedChannelsWhenPressingDown" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveFrom1To100WhenMovingDownWhenTheLowestChannelIs1" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMove1to100WhenPressingBackButtonIf100IsThePreviousChannelAnd1IsTheCurrentChannel" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveDownFrom106ByOneChannelWhenPressingDown" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldReturnTwoClicksWhenMovingFrom15to14ByEnteringTheChannelNumber" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldSetTheInitialRemoteStateWhenSwitchedOn" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveToNextChannelFrom105WhenPRessingUp" classname="com.bandido.RemoteTest" time="0.0"/>
+  <testcase name="ShouldMoveFrom100To1WhenMovingUpWhenTheHighestChannelIs100" classname="com.bandido.RemoteTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

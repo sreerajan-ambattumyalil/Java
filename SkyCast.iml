@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
+<module external.linked.project.path="$MODULE_DIR$" external.root.project.path="$USER_HOME$/MyTryOuts/SkyCast" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$USER_HOME$/MyTryOuts/SkyCast">
-      <sourceFolder url="file://$USER_HOME$/MyTryOuts/SkyCast/src" isTestSource="false" />
-      <sourceFolder url="file://$USER_HOME$/MyTryOuts/SkyCast/test" isTestSource="true" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
     </content>
-    <orderEntry type="library" name="hamcrest-core-1.3" level="project" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="junit-4.11" level="project" />
+    <orderEntry type="library" name="hamcrest-core-1.31" level="project" />
   </component>
 </module>
 
